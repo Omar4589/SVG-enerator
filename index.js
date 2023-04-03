@@ -8,4 +8,4 @@ const cli = new CLI();
 //Instance methods can only be called on an instance of the class, not on the class itself.
 cli.run();
 
-//To call method directly on class use "static run() { //code here }"
+//To call method directly on class use "static run() { //code here } in CLI class in cli.js"
