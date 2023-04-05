@@ -7,6 +7,10 @@
 <strong>Introducing SVG-enerator!</strong>
 <br>
 This is a command line application that generates a logo and saves it as an SVG. It allows the user to choose between three shapes - Square, Triangle, and Circle. The user can also specify the color of the shape, up to 3 letters that will be placed inside the shape, and the color of the chosen letters.<br>
+
+A walkthrough video demonstrating the functionality of the application:
+
+https://drive.google.com/file/d/1uNsSoVovaaNelhpqedzYPO5biyyZwHQj/view
     
 ## Table Of Contents
 
